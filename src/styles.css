@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@1,300&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.nav-bar {
+  background: linear-gradient(192deg, #920053, #0b8570, #1fe11f);
+  padding: 3rem;
+  text-align: left;
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+.nav-title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+}
+.nav-link {
+  font-size: 15px;
+  text-align: right;
+  list-style-type: none;
+}
+
+.nav-icon {
+  /* background: #0b8570; */
+  margin: 0.5rem;
+  color: black;
+  display: inline-block;
+  background: grey;
+  padding: 0.5rem;
+  border: 1px solid black;
+  font-family: "Zilla Slab", serif;
+  cursor: pointer;
+}
+/* body {
+  background-color: #0b8570;
+} */
