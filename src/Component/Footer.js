@@ -11,7 +11,7 @@ export const Footer = () => {
         }}
       >
         {" "}
-        Made with love{" "}
+        Made with love ❤️{" "}
       </span>
     </div>
   );

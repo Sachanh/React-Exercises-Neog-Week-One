@@ -54,9 +54,9 @@ export default function App() {
         </ul>
       </div>
       {call}
-      <section>
+      <footer>
         <Footer />
-      </section>
+      </footer>
     </div>
   );
 }

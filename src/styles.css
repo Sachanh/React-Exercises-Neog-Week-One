@@ -31,6 +31,10 @@
   font-family: "Zilla Slab", serif;
   cursor: pointer;
 }
+
+footer {
+  margin: 60px;
+}
 /* body {
   background-color: #0b8570;
 } */
